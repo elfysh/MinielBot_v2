@@ -1,0 +1,10 @@
+# Игнорируем виртуальное окружение
+venv/
+.venv/
+.idea/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+config.config
